@@ -1,5 +1,9 @@
 # 💫 Hi, I'm Maretyui!
-👨‍💻Web-Developer teaching techs and creating new sites<br>💷Free Web-Development Services<br>🎓Studying Web-Design at the "Institut Für Lernsysteme"
+👨‍💻Web-Developer teaching techs and creating new sites
+<br>🎂16 years old 
+<br>💷Free Web-Development Services
+<br>🎓Studying Web-Design at the "Institut Für Lernsysteme"
+
 
 # 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
