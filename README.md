@@ -16,8 +16,10 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 # 📊 GitHub Stats
-![](https://nirzak-streak-stats.vercel.app/?user=Maretyui&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maretyui&layout=pie&theme=radical)
+![](https://nirzak-streak-stats.vercel.app/?user=Maretyui&theme=radical&hide_border=false)
 ![](https://github-profile-trophy.vercel.app/?username=Maretyui&theme=radical&no-frame=false&no-bg=true&margin-w=6)
+
 
 # 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/2RmgETr9UK) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itzzzz.maik) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30871085) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maikreinhardt.1@web.de) 
