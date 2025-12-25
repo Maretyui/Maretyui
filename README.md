@@ -2,7 +2,7 @@
 👨‍💻Web-Developer teaching techs and creating new sites
 <br>🎂16 years old 
 <br>💷Free Web-Development Services
-<br>🎓Studying Web-Design at the "Institut Für Lernsysteme"
+<br>🎓Certified Web-Designer by the "Institut Für Lernsysteme"
 
 
 # 💻 Tech Stack
