@@ -20,7 +20,6 @@ I take on free/freelance web-dev work for local clubs and small organizations �
 
 | Project | What it is |
 |---|---|
-| **[maretyui.com](https://maretyui.com)** | My developer portfolio |
 | **[ath-ev.de](https://ath-ev.de)** | Full-stack site for a Hamburg sports-diving club — Next.js + Prisma |
 | **[blogfolio.art](https://blogfolio.art)** | Art blog/portfolio platform — Next.js + MySQL |
 | **[kirchliche-pilgerplätze.de](https://kirchliche-pilgerplätze.de)** | Site for a network of church pilgrimage locations |
@@ -51,17 +50,6 @@ I take on free/freelance web-dev work for local clubs and small organizations �
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-
-### 📊 GitHub stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Maretyui&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maretyui&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
-</div>
-
-<div align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=Maretyui&theme=radical&hide_border=true" alt="GitHub streak" />
-</div>
 
 ### 🌐 Elsewhere
 
