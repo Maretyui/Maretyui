@@ -4,7 +4,8 @@
 
 **Web developer · Certified web designer · Swim instructor · 17 · Hamburg, Germany 🇩🇪**
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maikreinhardt.1@web.de)
+[![Portfolio](https://img.shields.io/badge/Portfolio-maretyui.com-8A2BE2?style=for-the-badge)](https://maretyui.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@maretyui.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/2RmgETr9UK)
 
 </div>
