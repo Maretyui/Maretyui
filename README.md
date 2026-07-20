@@ -4,7 +4,6 @@
 
 **Web developer · Certified web designer · Swim instructor · 17 · Hamburg, Germany 🇩🇪**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-maretyui.com-8A2BE2?style=for-the-badge)](https://maretyui.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maikreinhardt.1@web.de)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/2RmgETr9UK)
 
@@ -20,6 +19,7 @@ I take on free/freelance web-dev work for local clubs and small organizations �
 
 | Project | What it is |
 |---|---|
+| **[maretyui.com](https://maretyui.com)** | My developer portfolio |
 | **[ath-ev.de](https://ath-ev.de)** | Full-stack site for a Hamburg sports-diving club — Next.js + Prisma |
 | **[blogfolio.art](https://blogfolio.art)** | Art blog/portfolio platform — Next.js + MySQL |
 | **[kirchliche-pilgerplätze.de](https://kirchliche-pilgerplätze.de)** | Site for a network of church pilgrimage locations |
