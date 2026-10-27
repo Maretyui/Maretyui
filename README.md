@@ -6,7 +6,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge)](https://maretyui.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@maretyui.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/2RmgETr9UK)
 
 </div>
 
@@ -70,5 +69,4 @@ Ansprechpartnerin für neue Projekte ist Xenia Groth ([groth@maretyui.com](mailt
 
 ### 🌐 Elsewhere
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/itzzzz.maik)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30871085)
