@@ -2,7 +2,7 @@
 
 # Hi, I'm Maik 👋 — a.k.a. Maretyui
 
-**Web developer · Certified web designer · Swim instructor · 17 · Hamburg, Germany 🇩🇪**
+**Web developer · Certified web designer · Swim instructor · Hamburg area, Germany 🇩🇪**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge)](https://maretyui.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@maretyui.com)
@@ -12,18 +12,34 @@
 
 ### About me
 
-I design and build full-stack web apps — mostly Next.js/TypeScript on the frontend with Go or Node on the backend — and self-host everything on my own Linux infrastructure instead of managed platforms. Certified web designer (Institut für Lernsysteme), still teaching myself deeper into infra and DevOps alongside the day-to-day dev work.
+I design and build full-stack web apps — mostly Next.js/TypeScript on the frontend with Go or Node on the backend — and run them on my own Linux servers instead of managed platforms. Certified web designer (Institut für Lernsysteme), still teaching myself deeper into infra and DevOps alongside the day-to-day dev work.
 
-I take on free/freelance web-dev work for local clubs and small organizations — a few of those are live below.
+Under the name **maretyui** I design, build and host websites for small businesses and clubs in Hamburg and the surrounding area — design, code, hosting and ongoing care from one pair of hands, no agency in between. Based in Kölln-Reisiek near Elmshorn, working across the Hamburg metropolitan region and Schleswig-Holstein.
+
+### 🧭 maretyui — Webdesign & Entwicklung
+
+**Websites für Unternehmen und Vereine aus Hamburg und Umgebung.** Gestaltung, Entwicklung, Hosting und laufende Betreuung aus einer Hand — persönlich statt Ticketsystem, barrierefrei getestet, auf Wunsch selbst pflegbar mit WordPress.
+
+| | |
+|---|---|
+| **Leistungen** | Design & Entwicklung · Laufende Betreuung (Hosting, Updates, Fehlerbehebung) · Barrierefreiheit · WordPress & Business-Websites |
+| **Vereine** | In der Regel unter 200 € im Jahr. Vereinsrabatt auf die Erstellung, meist ohne Einmalzahlung. |
+| **Unternehmen** | Fester Preis nach Umfang statt Stundenabrechnung, Richtwert ab 500 €; Betrieb ab 25 € im Monat. |
+| **Gebiet** | Hamburg, Elmshorn, Kölln-Reisiek, Metropolregion Hamburg, Schleswig-Holstein |
+| **Kontakt** | [maretyui.com](https://maretyui.com) · [hello@maretyui.com](mailto:hello@maretyui.com) · 04121 2642500 |
+
+Ansprechpartnerin für neue Projekte ist Xenia Groth ([groth@maretyui.com](mailto:groth@maretyui.com)).
 
 ### 🚀 Featured projects
 
-| Project | What it is |
-|---|---|
-| **[maretyui.com](https://maretyui.com)** | My developer portfolio |
-| **[ath-ev.de](https://ath-ev.de)** | Full-stack site for a Hamburg sports-diving club — Next.js + Prisma |
-| **[blogfolio.art](https://blogfolio.art)** | Art blog/portfolio platform — Next.js + MySQL |
-| **[kirchliche-pilgerplätze.de](https://kirchliche-pilgerplätze.de)** | Site for a network of church pilgrimage locations |
+| Project | What it is | Year |
+|---|---|---|
+| **[maretyui.com](https://maretyui.com)** | My own site — services, references and prices | 2026 |
+| **[ath-ev.de](https://ath-ev.de)** | Full-stack platform for a Hamburg sports-diving club: course calendar, training programmes, member area — Next.js + Prisma | 2026 |
+| **[mth-ultraschall.de](https://mth-ultraschall.de)** | Company site with product catalogue for a manufacturer of ultrasound components and special-purpose machines — WordPress, hand-adjusted | 2026 |
+| **[kirchliche-pilgerplätze.de](https://kirchliche-pilgerplätze.de)** | Directory of pilgrimage sites with its own admin dashboard | 2025 |
+| **Central Egypt Tours** | Booking site for a family-run tour operator in Hurghada | 2025 |
+| **[blogfolio.art](https://blogfolio.art)** | Art blog/portfolio platform — Next.js + MySQL | 2025 |
 
 ### 🛠️ Tech I use
 
